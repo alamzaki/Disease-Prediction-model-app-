@@ -1,1 +1,1 @@
-# Disease-Prediction-model-app-
+# Multiple Disease Prediction System
